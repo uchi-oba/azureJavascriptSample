@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1942a98-b40c-4122-8eab-1cde3d9567e5/microsoft.web/sites/subscriptions/f1942a98-b40c-4122-8eab-1cde3d9567e5/resourceGroups/KecDev/providers/Microsoft.Web/sites/jsLoginSample",
+    "appService.deploySubpath": "."
+}
